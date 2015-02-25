@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a1969be_9721dda1",
+        "filename": "camera.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1003942
+      },
+      "writtenOn": "2015-02-25T00:57:53Z",
+      "side": 1,
+      "message": "добави една линия от долу",
+      "revId": "55f15a6d1bd93d1cb91af97e7bfb49d68c49f34b",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
